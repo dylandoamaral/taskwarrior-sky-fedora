@@ -39,32 +39,32 @@ color.error=white on red
 color.debug=color031
 
 # Task state
-color.completed=
-color.deleted=
+color.completed=rgb021
+color.deleted=rgb411
 color.active=color031
 color.recurring=
-color.scheduled=rgb542
+color.scheduled=
 color.until=
-color.blocked=white on rgb001
-color.blocking=white on rgb002
+color.blocked=gray8
+color.blocking=rgb542
 
 # Project
 color.project.none=
 
 # Priority
-color.uda.priority.H=rgb035
-color.uda.priority.L=rgb015
-color.uda.priority.M=rgb025
+color.uda.priority.H=
+color.uda.priority.L=
+color.uda.priority.M=
 
 # Tags
-color.tag.next=rgb550
+color.tag.next=
 color.tag.none=
-color.tagged=color246
+color.tagged=
 
 # Due
-color.due.today=color252
-color.due=color249
-color.overdue=color255
+color.due.today=rgb533
+color.due=
+color.overdue=rgb500
 
 # Report: burndown
 color.burndown.done=on gray2
