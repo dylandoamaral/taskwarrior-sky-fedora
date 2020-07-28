@@ -83,7 +83,7 @@ color.summary.bar=on rgb012
 # Command: calendar
 color.calendar.due.today=rgb542 on rgb012
 color.calendar.due=black on rgb542
-color.calendar.holiday=black on rgb021
+color.calendar.holiday=rgb021
 color.calendar.overdue=rgb400
 color.calendar.today=black on rgb012 
 color.calendar.weekend=on color235
