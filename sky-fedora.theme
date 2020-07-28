@@ -46,7 +46,7 @@ color.recurring=
 color.scheduled=
 color.until=
 color.blocked=gray8
-color.blocking=rgb542
+color.blocking=rgb533
 
 # Project
 color.project.none=
@@ -62,7 +62,7 @@ color.tag.none=
 color.tagged=
 
 # Due
-color.due.today=rgb533
+color.due.today=rgb542
 color.due=
 color.overdue=rgb500
 
