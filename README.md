@@ -14,6 +14,16 @@ go to ~/taskrc and add:
 include path/to/taskwarrior-sky-fedora/sky-fedora.theme
 ```
 
+## Timewarrior
+
+there is also a timewarrior theme in progress.
+
+go to ~/timewarrior/timewarrior.cfg and add:
+
+```bash
+import path/to/taskwarrior-sky-fedora/sky-fedora.timewarrior.theme
+```
+
 ## Theme Swatch
 
 ![list](https://raw.githubusercontent.com/dylandoamaral/taskwarrior-sky-fedora/master/images/list.png)
